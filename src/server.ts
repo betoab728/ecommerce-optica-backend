@@ -1,0 +1,55 @@
+import express , {Request, Response} from 'express';
+import dotenv from 'dotenv';
+import cors from 'cors';
+import { AppDataSource } from './config/data-source';
+
+dotenv.config();
+
+class Server {
+    private app: express.Application;
+    private port: number;
+
+    constructor() {
+        this.app = express();
+        this.port = Number(process.env.PORT) || 3000;
+
+        this.middleware();
+        this.routes();
+        this.database();
+        this.listen();
+    }
+
+    listen() {
+        this.app.listen(Number(this.port), '0.0.0.0', () => {
+            console.log(`Server running on port ${this.port}`);
+        });
+    }
+
+    middleware() {
+        // Indicar a Express que confíe en el proxy (Nginx en este caso)
+       this.app.set('trust proxy', true);
+       // Parseando el body de la petición
+       this.app.use(express.json());
+       // Habilitar CORS
+       this.app.use(cors());
+   }
+
+    routes() {
+         this.app.get('/', (req: Request, res: Response) => {
+            res.json({
+                message: 'Servidor corriendo correctamente'
+            });
+         });
+    }
+
+    async database() {
+        try {
+            await AppDataSource.initialize(); 
+            console.log('Database online');
+        } catch (error) {
+          console.error('Error connecting to database:', error);
+        }
+    }
+}
+
+export default Server;
