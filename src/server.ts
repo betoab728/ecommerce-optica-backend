@@ -10,13 +10,11 @@ class Server {
     private app: express.Application;
     private port: number;
     //variable para la carpeta de fotos
-    private imageFolder : string;
 
     constructor() {
         this.app = express();
         this.port = Number(process.env.PORT) || 3000;
-        this.imageFolder = process.env.IMAGE_FOLDER || 'images';
-
+      
         this.middleware();
         this.routes();
         this.database();

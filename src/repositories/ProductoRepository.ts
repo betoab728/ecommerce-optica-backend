@@ -1,25 +1,26 @@
 import { AppDataSource } from "../config/data-source";
 import { Producto } from "../models/Producto";
+import { EntityManager } from 'typeorm';
+
 
 export class ProductoRepository {
   async obtenerProductos(): Promise<Producto[]> {
-    const queryRunner = AppDataSource.createQueryRunner();
-    await queryRunner.connect();
-    
+    const imagePath = process.env.IMAGE_FOLDER || 'https://grupoctc.ddns.net:8443/fotos';
+
     try {
-      const productos = await queryRunner.query(`
+      const entityManager: EntityManager = AppDataSource.manager;
+      const productos = await entityManager.query(`
         EXEC dbo.sp_ObtenerProductosParaEcommerce
       `);
 
-      const imagePath = process.env.IMAGE_FOLDER || 'http://localhost:3000/images';
-      // Agregar la ruta de la imagen a cada producto
       return productos.map((producto: Producto) => ({
         ...producto,
-        imagen: `${imagePath}/${producto.idproducto}.jpg`
+        imagen: producto.idproducto ? `${imagePath}/${producto.idproducto}.jpg` : null
       }));
-     
-    } finally {
-      await queryRunner.release();
+
+    } catch (error) {
+      console.error('Error fetching products:', error);
+      throw new Error('Could not fetch products from database');
     }
   }
 }
