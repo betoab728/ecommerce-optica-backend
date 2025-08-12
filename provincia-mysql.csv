@@ -1,0 +1,196 @@
+idprovincia,iddepartamento,NombreProvincia
+1,3,Abancay
+2,9,Acobamba
+3,8,Acomayo
+4,2,Aija
+5,16,"Alto Amazonas"
+6,10,Ambo
+7,3,Andahuaylas
+8,9,Angaraes
+9,8,Anta
+10,3,Antabamba
+11,2,"Antonio Raymondi"
+12,4,Arequipa
+13,13,Ascope
+14,2,Asuncion
+15,25,Atalaya
+16,20,Ayabaca
+17,3,Aymaraes
+18,21,Azangaro
+19,1,Bagua
+20,15,Barranca
+21,22,Bellavista
+22,13,Bolivar
+23,2,Bolognesi
+24,1,Bongara
+25,6,Cajabamba
+26,6,Cajamarca
+27,15,Cajatambo
+28,8,Calca
+29,7,Callao
+30,4,Camana
+31,8,Canas
+32,8,Canchis
+33,23,Candarave
+34,5,Cangallo
+35,15,Canta
+36,15,CaÃ±ete
+37,21,Carabaya
+38,4,Caraveli
+39,2,Carhuaz
+40,2,"Carlos Fermin Fitzca"
+41,2,Casma
+42,4,Castilla
+43,9,Castrovirreyna
+44,4,Caylloma
+45,6,Celendin
+46,1,Chachapoyas
+47,12,Chanchamayo
+48,13,Chepen
+49,14,Chiclayo
+50,11,Chincha
+51,3,Chincheros
+52,6,Chota
+53,21,Chucuito
+54,8,Chumbivilcas
+55,12,Chupaca
+56,9,Churcampa
+57,12,Concepcion
+58,4,Condesuyos
+59,1,Condorcanqui
+60,24,"Contralmirante Villa"
+61,6,Contumaza
+62,25,"Coronel Portillo"
+63,2,Corongo
+64,3,Cotabambas
+65,8,Cusco
+66,6,Cutervo
+67,19,"Daniel Alcides Carri"
+68,16,"Datem del MaraÃ±on"
+69,10,"Dos de Mayo"
+70,21,"El Collao"
+71,22,"El Dorado"
+72,8,Espinar
+73,14,FerreÃ±afe
+74,18,"General Sanchez Cerr"
+75,13,"Gran Chimu"
+76,3,Grau
+77,10,Huacaybamba
+78,6,Hualgayoc
+79,22,Huallaga
+80,10,Huamalies
+81,5,Huamanga
+82,5,"Huanca Sancos"
+83,20,Huancabamba
+84,21,Huancane
+85,9,Huancavelica
+86,12,Huancayo
+87,5,Huanta
+88,10,Huanuco
+89,15,Huaral
+90,2,Huaraz
+91,2,Huari
+92,2,Huarmey
+93,15,Huarochiri
+94,15,Huaura
+95,2,Huaylas
+96,9,Huaytara
+97,11,Ica
+98,18,Ilo
+99,4,Islay
+100,6,Jaen
+101,12,Jauja
+102,23,"Jorge Basadre"
+103,13,Julcan
+104,12,Junin
+105,8,"La Convencion"
+106,5,"La Mar"
+107,4,"La Union"
+108,22,Lamas
+109,14,Lambayeque
+110,21,Lampa
+111,10,Lauricocha
+112,10,"Leoncio Prado"
+113,15,Lima
+114,16,Loreto
+115,5,Lucanas
+116,1,Luya
+117,17,Manu
+118,10,MaraÃ±on
+119,22,"Mariscal Caceres"
+120,2,"Mariscal Luzuriaga"
+121,18,"Mariscal Nieto"
+122,16,"Mariscal Ramon Castilla"
+123,16,Maynas
+124,21,Melgar
+125,21,Moho
+126,20,Morropon
+127,22,Moyobamba
+128,11,Nazca
+129,2,Ocros
+130,13,Otuzco
+131,19,Oxapampa
+132,15,Oyon
+133,13,Pacasmayo
+134,10,Pachitea
+135,25,"Padre Abad"
+136,20,Paita
+137,2,Pallasca
+138,11,Palpa
+139,5,Parinacochas
+140,8,Paruro
+141,19,Pasco
+142,13,Pataz
+143,5,"Paucar del Sara Sara"
+144,8,Paucartambo
+145,22,Picota
+146,11,Pisco
+147,20,Piura
+148,2,Pomabamba
+149,10,"Puerto Inca"
+150,21,Puno
+151,25,Purus
+152,8,Quispicanchi
+153,2,Recuay
+154,16,Requena
+155,22,Rioja
+156,1,"Rodriguez de Mendoza"
+157,21,"San Antonio de Putin"
+158,6,"San Ignacio"
+159,6,"San Marcos"
+160,22,"San Martin"
+161,6,"San Miguel"
+162,6,"San Pablo"
+163,21,"San Roman"
+164,13,"Sanchez Carrion"
+165,21,Sandia
+166,2,Santa
+167,6,"Santa Cruz"
+168,13,"Santiago de Chuco"
+169,12,Satipo
+170,20,Sechura
+171,2,Sihuas
+172,5,Sucre
+173,20,Sullana
+174,23,Tacna
+175,17,Tahuamanu
+176,20,Talara
+177,17,Tambopata
+178,23,Tarata
+179,12,Tarma
+180,9,Tayacaja
+181,22,Tocache
+182,13,Trujillo
+183,24,Tumbes
+184,16,Ucayali
+185,8,Urubamba
+186,1,Utcubamba
+187,5,"Victor Fajardo"
+188,5,"Vilcas Huaman"
+189,13,Viru
+190,10,Yarowilca
+191,12,Yauli
+192,15,Yauyos
+193,2,Yungay
+194,21,Yunguyo
+195,24,Zarumilla
