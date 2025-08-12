@@ -1,0 +1,1875 @@
+iddistrito,idprovincia,NombreDistrito,ubigeo
+1,46,Chachapoyas,010101
+2,46,Asuncion,010102
+3,46,Balsas,010103
+4,46,Cheto,010104
+5,46,Chiliquin,010105
+6,46,Chuquibamba,010106
+7,46,Granada,010107
+8,46,Huancas,010108
+9,46,"La Jalca",010109
+10,46,Leimebamba,010110
+11,46,Levanto,010111
+12,46,Magdalena,010112
+13,46,"Mariscal Castilla",010113
+14,46,Molinopampa,010114
+15,46,Montevideo,010115
+16,46,Olleros,010116
+17,46,Quinjalca,010117
+18,46,"San Francisco de Daguas",010118
+19,46,"San Isidro de Maino",010119
+20,46,Soloco,010120
+21,46,Sonche,010121
+22,19,Bagua,010201
+23,19,Aramango,010202
+24,19,Copallin,010203
+25,19,"El Parco",010204
+26,19,Imaza,010205
+27,19,"La Peca",010206
+28,24,Jumbilla,010301
+29,24,Chisquilla,010302
+30,24,Churuja,010303
+31,24,Corosha,010304
+32,24,Cuispes,010305
+33,24,Florida,010306
+34,24,Jazan,010307
+35,24,Recta,010308
+36,24,"San Carlos",010309
+37,24,Shipasbamba,010310
+38,24,Valera,010311
+39,24,Yambrasbamba,010312
+40,59,Nieva,010401
+41,59,"El Cenepa",010402
+42,59,"Rio Santiago",010403
+43,116,Lamud,010501
+44,116,Camporredondo,010502
+45,116,Cocabamba,010503
+46,116,Colcamar,010504
+47,116,Conila,010505
+48,116,Inguilpata,010506
+49,116,Longuita,010507
+50,116,"Lonya Chico",010508
+51,116,Luya,010509
+52,116,"Luya Viejo",010510
+53,116,Maria,010511
+54,116,Ocalli,010512
+55,116,Ocumal,010513
+56,116,Pisuquia,010514
+57,116,Providencia,010515
+58,116,"San Cristobal",010516
+59,116,"San Francisco del Yeso",010517
+60,116,"San Jeronimo",010518
+61,116,"San Juan de Lopecancha",010519
+62,116,"Santa Catalina",010520
+63,116,"Santo Tomas",010521
+64,116,Tingo,010522
+65,116,Trita,010523
+66,156,"San Nicolas",010601
+67,156,Chirimoto,010602
+68,156,Cochamal,010603
+69,156,Huambo,010604
+70,156,Limabamba,010605
+71,156,Longar,010606
+72,156,"Mariscal Benavides",010607
+73,156,Milpuc,010608
+74,156,Omia,010609
+75,156,"Santa Rosa",010610
+76,156,Totora,010611
+77,156,"Vista Alegre",010612
+78,186,"Bagua Grande",010701
+79,186,Cajaruro,010702
+80,186,Cumba,010703
+81,186,"El Milagro",010704
+82,186,Jamalca,010705
+83,186,"Lonya Grande",010706
+84,186,Yamon,010707
+85,90,Huaraz,020101
+86,90,Cochabamba,020102
+87,180,Colcabamba,020103
+88,90,Huanchay,020104
+89,90,Independencia,020105
+90,90,Jangas,020106
+91,90,"La Libertad",020107
+92,90,Olleros,020108
+93,90,Pampas,020109
+94,90,Pariacoto,020110
+95,90,Pira,020111
+96,90,Tarica,020112
+97,4,Aija,020201
+98,4,Coris,020202
+99,4,Huacllan,020203
+100,4,"La Merced",020204
+101,4,Succha,020205
+102,11,Llamellin,020301
+103,11,Aczo,020302
+104,11,Chaccho,020303
+105,11,Chingas,020304
+106,11,Mirgas,020305
+107,11,"San Juan de Rontoy",020306
+108,14,Chacas,020401
+109,14,Acochaca,020402
+110,23,Chiquian,020501
+111,23,"Abelardo Pardo Lezameta",020502
+112,23,"Antonio Raymondi",020503
+113,23,Aquia,020504
+114,23,Cajacay,020505
+115,23,Canis,020506
+116,23,Colquioc,020507
+117,23,Huallanca,020508
+118,23,Huasta,020509
+119,23,Huayllacayan,020510
+120,23,"La Primavera",020511
+121,23,Mangas,020512
+122,23,Pacllon,020513
+123,23,"San Miguel de Corpanqui",020514
+124,23,Ticllos,020515
+125,39,Carhuaz,020601
+126,39,Acopampa,020602
+127,39,Amashca,020603
+128,39,Anta,020604
+129,39,Ataquero,020605
+130,39,Marcara,020606
+131,39,Pariahuanca,020607
+132,39,"San Miguel de Aco",020608
+133,39,Shilla,020609
+134,39,Tinco,020610
+135,39,Yungar,020611
+136,40,"San Luis",020701
+137,40,"San Nicolas",020702
+138,40,Yauya,020703
+139,41,Casma,020801
+140,41,"Buena Vista Alta",020802
+141,41,"Comandante Noel",020803
+142,41,Yautan,020804
+143,63,Corongo,020901
+144,63,Aco,020902
+145,63,Bambas,020903
+146,63,Cusca,020904
+147,63,"La Pampa",020905
+148,63,Yanac,020906
+149,63,Yupan,020907
+150,91,Huari,021001
+151,91,Anra,021002
+152,91,Cajay,021003
+153,91,"Chavin de Huantar",021004
+154,91,Huacachi,021005
+155,91,Huacchis,021006
+156,91,Huachis,021007
+157,91,Huantar,021008
+158,91,Masin,021009
+159,91,Paucas,021010
+160,91,Ponto,021011
+161,91,Rahuapampa,021012
+162,91,Rapayan,021013
+163,91,"San Marcos",021014
+164,91,"San Pedro de Chana",021015
+165,91,Uco,021016
+166,92,Huarmey,021101
+167,92,Cochapeti,021102
+168,92,Culebras,021103
+169,92,Huayan,021104
+170,92,Malvas,021105
+171,95,Caraz,021201
+172,95,Huallanca,021202
+173,95,Huata,021203
+174,95,Huaylas,021204
+175,95,Mato,021205
+176,95,Pamparomas,021206
+177,95,"Pueblo Libre",021207
+178,5,"Santa Cruz",021208
+179,95,"Santo Toribio",021209
+180,95,Yuracmarca,021210
+181,120,Piscobamba,021301
+182,120,Casca,021302
+183,120,"Eleazar Guzman Barron",021303
+184,120,"Fidel Olivas Escudero",021304
+185,120,Llama,021305
+186,120,Llumpa,021306
+187,120,Lucma,021307
+188,120,Musga,021308
+189,129,Ocros,021401
+190,129,Acas,021402
+191,129,Cajamarquilla,021403
+192,129,Carhuapampa,021404
+193,129,Cochas,021405
+194,129,Congas,021406
+195,129,Llipa,021407
+196,129,"San Cristobal de Rajan",021408
+197,129,"San Pedro",021409
+198,129,"Santiago de Chilcas",021410
+199,137,Cabana,021501
+200,137,Bolognesi,021502
+201,137,Conchucos,021503
+202,137,Huacaschuque,021504
+203,137,Huandoval,021505
+204,137,Lacabamba,021506
+205,137,Llapo,021507
+206,137,Pallasca,021508
+207,137,Pampas,021509
+208,100,"Santa Rosa",021510
+209,137,Tauca,021511
+210,148,Pomabamba,021601
+211,148,Huayllan,021602
+212,148,Parobamba,021603
+213,148,Quinuabamba,021604
+214,153,Recuay,021701
+215,153,Catac,021702
+216,153,Cotaparaco,021703
+217,153,Huayllapampa,021704
+218,153,Llacllin,021705
+219,153,Marca,021706
+220,153,"Pampas Chico",021707
+221,153,Pararin,021708
+222,153,Tapacocha,021709
+223,153,Ticapampa,021710
+224,166,Chimbote,021801
+225,166,"Caceres del Peru",021802
+226,166,Coishco,021803
+227,166,Macate,021804
+228,166,Moro,021805
+229,166,NepeÃ±a,021806
+230,166,Samanco,021807
+231,166,Santa,021808
+232,166,"Nuevo Chimbote",021809
+233,171,Sihuas,021901
+234,171,Acobamba,021902
+235,171,"Alfonso Ugarte",021903
+236,171,Cashapampa,021904
+237,171,Chingalpo,021905
+238,171,Huayllabamba,021906
+239,171,Quiches,021907
+240,171,Ragash,021908
+241,171,"San Juan",021909
+242,171,Sicsibamba,021910
+243,193,Yungay,022001
+244,193,Cascapara,022002
+245,193,Mancos,022003
+246,193,Matacoto,022004
+247,193,Quillo,022005
+248,193,Ranrahirca,022006
+249,193,Shupluy,022007
+250,193,Yanama,022008
+251,1,Abancay,030101
+252,1,Chacoche,030102
+253,1,Circa,030103
+254,1,Curahuasi,030104
+255,1,Huanipaca,030105
+256,1,Lambrama,030106
+257,1,Pichirhua,030107
+258,1,"San Pedro de Cachora",030108
+259,1,Tamburco,030109
+260,7,Andahuaylas,030201
+261,7,Andarapa,030202
+262,7,Chiara,030203
+263,7,Huancarama,030204
+264,7,Huancaray,030205
+265,7,Huayana,030206
+266,7,Kishuara,030207
+267,7,Pacobamba,030208
+268,7,Pacucha,030209
+269,7,Pampachiri,030210
+270,7,Pomacocha,030211
+271,7,"San Antonio de Cachi",030212
+272,7,"San Jeronimo",030213
+273,7,"San Miguel de Chaccrampa",030214
+274,7,"Santa Maria de Chicmo",030215
+275,7,Talavera,030216
+276,7,"Tumay Huaraca",030217
+277,7,Turpo,030218
+278,7,Kaquiabamba,030219
+279,7,"JosÃ© MarÃ­a Arguedas",030220
+280,10,Antabamba,030301
+281,10,"El Oro",030302
+282,10,Huaquirca,030303
+283,10,"Juan Espinoza Medrano",030304
+284,10,Oropesa,030305
+285,10,Pachaconas,030306
+286,10,Sabaino,030307
+287,17,Chalhuanca,030401
+288,17,Capaya,030402
+289,17,Caraybamba,030403
+290,17,Chapimarca,030404
+291,17,Colcabamba,030405
+292,17,Cotaruse,030406
+293,17,Huayllo,030407
+294,17,"Justo Apu Sahuaraura",030408
+295,17,Lucre,030409
+296,17,Pocohuanca,030410
+297,17,"San Juan de ChacÃ±a",030411
+298,17,SaÃ±ayca,030412
+299,17,Soraya,030413
+300,17,Tapairihua,030414
+301,17,Tintay,030415
+302,17,Toraya,030416
+303,17,Yanaca,030417
+304,64,Tambobamba,030501
+305,64,Cotabambas,030502
+306,64,Coyllurqui,030503
+307,64,Haquira,030504
+308,64,Mara,030505
+309,64,Challhuahuacho,030506
+310,51,Chincheros,030601
+311,51,Anco_Huallo,030602
+312,51,Cocharcas,030603
+313,51,Huaccana,030604
+314,51,Ocobamba,030605
+315,51,Ongoy,030606
+316,51,Uranmarca,030607
+317,51,Ranracancha,030608
+318,51,Rocchacc,030609
+319,51,"El Porvenir",030610
+320,51,"Los Chankas",030611
+321,76,Chuquibambilla,030701
+322,76,Curpahuasi,030702
+323,76,Gamarra,030703
+324,76,Huayllati,030704
+325,76,Mamara,030705
+326,76,"Micaela Bastidas",030706
+327,76,Pataypampa,030707
+328,76,Progreso,030708
+329,76,"San Antonio",030709
+330,113,"Santa Rosa",030710
+331,76,Turpay,030711
+332,76,Vilcabamba,030712
+333,76,Virundo,030713
+334,76,Curasco,030714
+335,12,Arequipa,040101
+336,12,"Alto Selva Alegre",040102
+337,12,Cayma,040103
+338,12,"Cerro Colorado",040104
+339,12,Characato,040105
+340,12,Chiguata,040106
+341,12,"Jacobo Hunter",040107
+342,12,"La Joya",040108
+343,12,"Mariano Melgar",040109
+344,12,Miraflores,040110
+345,12,Mollebaya,040111
+346,12,Paucarpata,040112
+347,12,Pocsi,040113
+348,12,Polobaya,040114
+349,12,QuequeÃ±a,040115
+350,12,Sabandia,040116
+351,12,Sachaca,040117
+352,12,"San Juan de Siguas",040118
+353,12,"San Juan de Tarucani",040119
+354,12,"Santa Isabel de Siguas",040120
+355,12,"Santa Rita de Siguas",040121
+356,12,Socabaya,040122
+357,12,Tiabaya,040123
+358,12,Uchumayo,040124
+359,12,Vitor,040125
+360,12,Yanahuara,040126
+361,12,Yarabamba,040127
+362,12,Yura,040128
+363,12,"Jose Luis Bustamante y Rivero",040129
+364,30,Camana,040201
+365,30,"Jose Maria Quimper",040202
+366,30,"Mariano Nicolas Valcarcel",040203
+367,30,"Mariscal Caceres",040204
+368,30,"Nicolas de Pierola",040205
+369,30,OcoÃ±a,040206
+370,30,Quilca,040207
+371,30,"Samuel Pastor",040208
+372,38,Caraveli,040301
+373,38,Acari,040302
+374,38,Atico,040303
+375,38,Atiquipa,040304
+376,38,"Bella Union",040305
+377,38,Cahuacho,040306
+378,38,Chala,040307
+379,38,Chaparra,040308
+380,38,Huanuhuanu,040309
+381,38,Jaqui,040310
+382,38,Lomas,040311
+383,38,Quicacha,040312
+384,38,Yauca,040313
+385,42,Aplao,040401
+386,42,Andagua,040402
+387,42,Ayo,040403
+388,42,Chachas,040404
+389,42,Chilcaymarca,040405
+390,42,Choco,040406
+391,42,Huancarqui,040407
+392,42,Machaguay,040408
+393,42,Orcopampa,040409
+394,42,Pampacolca,040410
+395,42,Tipan,040411
+396,42,UÃ±on,040412
+397,42,Uraca,040413
+398,42,Viraco,040414
+399,44,Chivay,040501
+400,44,Achoma,040502
+401,44,Cabanaconde,040503
+402,44,Callalli,040504
+403,44,Caylloma,040505
+404,44,Coporaque,040506
+405,44,Huambo,040507
+406,44,Huanca,040508
+407,44,Ichupampa,040509
+408,44,Lari,040510
+409,44,Lluta,040511
+410,44,Maca,040512
+411,44,Madrigal,040513
+412,44,"San Antonio de Chuca",040514
+413,44,Sibayo,040515
+414,44,Tapay,040516
+415,44,Tisco,040517
+416,44,Tuti,040518
+417,44,Yanque,040519
+418,44,Majes,040520
+419,58,Chuquibamba,040601
+420,58,Andaray,040602
+421,58,Cayarani,040603
+422,58,Chichas,040604
+423,58,Iray,040605
+424,58,"Rio Grande",040606
+425,58,Salamanca,040607
+426,58,Yanaquihua,040608
+427,99,Mollendo,040701
+428,99,Cocachacra,040702
+429,99,"Dean Valdivia",040703
+430,99,Islay,040704
+431,99,Mejia,040705
+432,99,"Punta de Bombon",040706
+433,107,Cotahuasi,040801
+434,107,Alca,040802
+435,107,Charcana,040803
+436,107,Huaynacotas,040804
+437,107,Pampamarca,040805
+438,107,Puyca,040806
+439,107,Quechualla,040807
+440,107,Sayla,040808
+441,107,Tauria,040809
+442,107,Tomepampa,040810
+443,107,Toro,040811
+444,81,Ayacucho,050101
+445,81,Acocro,050102
+446,81,"Acos Vinchos",050103
+447,81,"Carmen Alto",050104
+448,81,Chiara,050105
+449,129,Ocros,050106
+450,81,Pacaycasa,050107
+451,81,Quinua,050108
+452,81,"San Jose de Ticllas",050109
+453,81,"San Juan Bautista",050110
+454,81,"Santiago de Pischa",050111
+455,81,Socos,050112
+456,81,Tambillo,050113
+457,81,Vinchos,050114
+458,81,"Jesus Nazareno",050115
+459,81,"AndrÃ©s Avelino CÃ¡ceres Dorregaray",050116
+460,34,Cangallo,050201
+461,34,Chuschi,050202
+462,34,"Los Morochucos",050203
+463,34,"Maria Parado de Bellido",050204
+464,34,Paras,050205
+465,34,Totos,050206
+466,82,Sancos,050301
+467,82,Carapo,050302
+468,82,Sacsamarca,050303
+469,82,"Santiago de Lucanamarca",050304
+470,87,Huanta,050401
+471,87,Ayahuanco,050402
+472,87,Huamanguilla,050403
+473,87,Iguain,050404
+474,87,Luricocha,050405
+475,87,Santillana,050406
+476,87,Sivia,050407
+477,87,Llochegua,050408
+478,87,Canayre,050409
+479,87,Uchuraccay,050410
+480,87,Pucacolpa,050411
+481,87,Chaca,050412
+482,106,"San Miguel",050501
+483,56,Anco,050502
+484,106,Ayna,050503
+485,106,Chilcas,050504
+486,106,Chungui,050505
+487,106,"Luis Carranza",050506
+488,106,"Santa Rosa",050507
+489,96,Tambo,050508
+490,106,Samugari,050509
+491,106,Anchihuay,050510
+492,106,Oronccoy,050511
+493,115,Puquio,050601
+494,115,Aucara,050602
+495,115,Cabana,050603
+496,115,"Carmen Salcedo",050604
+497,115,ChaviÃ±a,050605
+498,115,Chipao,050606
+499,115,Huac-Huas,050607
+500,115,Laramate,050608
+501,115,"Leoncio Prado",050609
+502,115,Llauta,050610
+503,115,Lucanas,050611
+504,115,OcaÃ±a,050612
+505,115,Otoca,050613
+506,115,Saisa,050614
+507,115,"San Cristobal",050615
+508,171,"San Juan",050616
+509,32,"San Pedro",050617
+510,115,"San Pedro de Palco",050618
+511,82,Sancos,050619
+512,115,"Santa Ana de Huaycahuacho",050620
+513,115,"Santa Lucia",050621
+514,139,Coracora,050701
+515,139,Chumpi,050702
+516,139,"Coronel CastaÃ±eda",050703
+517,139,Pacapausa,050704
+518,139,Pullo,050705
+519,139,Puyusca,050706
+520,139,"San Francisco de Ravacayco",050707
+521,139,Upahuacho,050708
+522,143,Pausa,050801
+523,143,Colta,050802
+524,143,Corculla,050803
+525,143,Lampa,050804
+526,143,Marcabamba,050805
+527,143,Oyolo,050806
+528,143,Pararca,050807
+529,143,"San Javier de Alpabamba",050808
+530,143,"San Jose de Ushua",050809
+531,143,"Sara Sara",050810
+532,172,Querobamba,050901
+533,172,Belen,050902
+534,172,Chalcos,050903
+535,172,Chilcayoc,050904
+536,172,HuacaÃ±a,050905
+537,172,Morcolla,050906
+538,172,Paico,050907
+539,172,"San Pedro de Larcay",050908
+540,172,"San Salvador de Quije",050909
+541,172,"Santiago de Paucaray",050910
+542,172,Soras,050911
+543,187,Huancapi,051001
+544,187,Alcamenca,051002
+545,187,Apongo,051003
+546,187,Asquipata,051004
+547,187,Canaria,051005
+548,187,Cayara,051006
+549,187,Colca,051007
+550,187,Huamanquiquia,051008
+551,187,Huancaraylla,051009
+552,187,Huaya,051010
+553,187,Sarhua,051011
+554,187,Vilcanchos,051012
+555,188,"Vilcas Huaman",051101
+556,188,Accomarca,051102
+557,188,Carhuanca,051103
+558,188,Concepcion,051104
+559,188,Huambalpa,051105
+560,188,Independencia,051106
+561,188,Saurama,051107
+562,188,Vischongo,051108
+563,26,Cajamarca,060101
+564,26,Asuncion,060102
+565,26,Chetilla,060103
+566,26,Cospan,060104
+567,26,EncaÃ±ada,060105
+568,26,Jesus,060106
+569,26,Llacanora,060107
+570,26,"Los BaÃ±os del Inca",060108
+571,26,Magdalena,060109
+572,26,Matara,060110
+573,26,Namora,060111
+574,26,"San Juan",060112
+575,25,Cajabamba,060201
+576,25,Cachachi,060202
+577,25,Condebamba,060203
+578,25,Sitacocha,060204
+579,45,Celendin,060301
+580,45,Chumuch,060302
+581,45,Cortegana,060303
+582,45,Huasmin,060304
+583,45,"Jorge Chavez",060305
+584,45,"Jose Galvez",060306
+585,45,"Miguel Iglesias",060307
+586,45,Oxamarca,060308
+587,45,Sorochuco,060309
+588,45,Sucre,060310
+589,45,Utco,060311
+590,45,"La Libertad de Pallan",060312
+591,52,Chota,060401
+592,52,Anguia,060402
+593,52,Chadin,060403
+594,52,Chiguirip,060404
+595,52,Chimban,060405
+596,52,Choropampa,060406
+597,52,Cochabamba,060407
+598,52,Conchan,060408
+599,52,Huambos,060409
+600,52,Lajas,060410
+601,52,Llama,060411
+602,52,Miracosta,060412
+603,52,Paccha,060413
+604,52,Pion,060414
+605,52,Querocoto,060415
+606,52,"San Juan de Licupis",060416
+607,52,Tacabamba,060417
+608,52,Tocmoche,060418
+609,52,Chalamarca,060419
+610,61,Contumaza,060501
+611,61,Chilete,060502
+612,61,Cupisnique,060503
+613,61,Guzmango,060504
+614,61,"San Benito",060505
+615,61,"Santa Cruz de Toled",060506
+616,61,Tantarica,060507
+617,61,Yonan,060508
+618,66,Cutervo,060601
+619,66,Callayuc,060602
+620,66,Choros,060603
+621,66,Cujillo,060604
+622,66,"La Ramada",060605
+623,66,Pimpingos,060606
+624,66,Querocotillo,060607
+625,66,"San Andres de Cutervo",060608
+626,66,"San Juan de Cutervo",060609
+627,66,"San Luis de Lucma",060610
+628,66,"Santa Cruz",060611
+629,66,"Santo Domingo de La Capilla",060612
+630,66,"Santo Tomas",060613
+631,66,Socota,060614
+632,66,"Toribio Casanova",060615
+633,78,Bambamarca,060701
+634,78,Chugur,060702
+635,78,Hualgayoc,060703
+636,100,Jaen,060801
+637,100,Bellavista,060802
+638,100,Chontali,060803
+639,100,Colasay,060804
+640,100,Huabal,060805
+641,100,"Las Pirias",060806
+642,100,Pomahuaca,060807
+643,100,Pucara,060808
+644,100,Sallique,060809
+645,100,"San Felipe",060810
+646,100,"San Jose del Alto",060811
+647,100,"Santa Rosa",060812
+648,158,"San Ignacio",060901
+649,158,Chirinos,060902
+650,158,Huarango,060903
+651,158,"La Coipa",060904
+652,158,Namballe,060905
+653,158,"San Jose de Lourdes",060906
+654,158,Tabaconas,060907
+655,159,"Pedro Galvez",061001
+656,159,Chancay,061002
+657,159,"Eduardo Villanueva",061003
+658,159,"Gregorio Pita",061004
+659,159,Ichocan,061005
+660,159,"Jose Manuel Quiroz",061006
+661,159,"Jose Sabogal",061007
+662,161,"San Miguel",061101
+663,22,Bolivar,061102
+664,161,Calquis,061103
+665,161,Catilluc,061104
+666,161,"El Prado",061105
+667,161,"La Florida",061106
+668,161,Llapa,061107
+669,161,Nanchoc,061108
+670,161,Niepos,061109
+671,161,"San Gregorio",061110
+672,161,"San Silvestre de Cochan",061111
+673,161,Tongod,061112
+674,161,"Union Agua Blanca",061113
+675,162,"San Pablo",061201
+676,162,"San Bernardino",061202
+677,162,"San Luis",061203
+678,162,Tumbaden,061204
+679,167,"Santa Cruz",061301
+680,2,Andabamba,061302
+681,167,Catache,061303
+682,167,ChancaybaÃ±os,061304
+683,167,"La Esperanza",061305
+684,167,Ninabamba,061306
+685,167,Pulan,061307
+686,167,Saucepampa,061308
+687,167,Sexi,061309
+688,167,Uticyacu,061310
+689,167,Yauyucan,061311
+690,29,Callao,070101
+691,29,Bellavista,070102
+692,29,"Carmen de La Legua",070103
+693,29,"La Perla",070104
+694,29,"La Punta",070105
+695,29,Ventanilla,070106
+696,29,"Mi Peru",070107
+697,65,Cusco,080101
+698,65,Ccorca,080102
+699,65,Poroy,080103
+700,65,"San Jeronimo",080104
+701,65,"San Sebastian",080105
+702,65,Santiago,080106
+703,65,Saylla,080107
+704,65,Wanchaq,080108
+705,3,Acomayo,080201
+706,3,Acopia,080202
+707,3,Acos,080203
+708,3,"Mosoc Llacta",080204
+709,3,Pomacanchi,080205
+710,3,Rondocan,080206
+711,3,Sangarara,080207
+712,9,Anta,080301
+713,9,Ancahuasi,080302
+714,9,Cachimayo,080303
+715,9,Chinchaypujio,080304
+716,9,Huarocondo,080305
+717,9,Limatambo,080306
+718,9,Mollepata,080307
+719,9,Pucyura,080308
+720,9,Zurite,080309
+721,28,Calca,080401
+722,28,Coya,080402
+723,28,Lamay,080403
+724,28,Lares,080404
+725,28,Pisac,080405
+726,28,"San Salvador",080406
+727,28,Taray,080407
+728,28,Yanatile,080408
+729,31,Yanaoca,080501
+730,31,Checca,080502
+731,31,Kunturkanki,080503
+732,31,Langui,080504
+733,31,Layo,080505
+734,31,Pampamarca,080506
+735,31,Quehue,080507
+736,31,"Tupac Amaru",080508
+737,32,Sicuani,080601
+738,32,Checacupe,080602
+739,32,Combapata,080603
+740,32,Marangani,080604
+741,32,Pitumarca,080605
+742,32,"San Pablo",080606
+743,32,"San Pedro",080607
+744,32,Tinta,080608
+745,54,"Santo Tomas",080701
+746,54,Capacmarca,080702
+747,54,Chamaca,080703
+748,54,Colquemarca,080704
+749,54,Livitaca,080705
+750,54,Llusco,080706
+751,54,QuiÃ±ota,080707
+752,54,Velille,080708
+753,72,Espinar,080801
+754,72,Condoroma,080802
+755,72,Coporaque,080803
+756,72,Ocoruro,080804
+757,72,Pallpata,080805
+758,72,Pichigua,080806
+759,72,Suyckutambo,080807
+760,72,"Alto Pichigua",080808
+761,105,"Santa Ana",080901
+762,105,Echarate,080902
+763,105,Huayopata,080903
+764,105,Maranura,080904
+765,105,Ocobamba,080905
+766,105,Quellouno,080906
+767,105,Kimbiri,080907
+768,105,"Santa Teresa",080908
+769,105,Vilcabamba,080909
+770,105,Pichari,080910
+771,105,Inkawasi,080911
+772,105,"Villa Virgen",080912
+773,105,"Villa Kintiarina",080913
+774,105,Megantoni,080914
+775,140,Paruro,081001
+776,140,Accha,081002
+777,140,Ccapi,081003
+778,140,Colcha,081004
+779,140,Huanoquite,081005
+780,140,Omacha,081006
+781,140,Paccaritambo,081007
+782,140,Pillpinto,081008
+783,140,Yaurisque,081009
+784,144,Paucartambo,081101
+785,144,Caicay,081102
+786,144,Challabamba,081103
+787,144,Colquepata,081104
+788,144,Huancarani,081105
+789,144,KosÃ±ipata,081106
+790,152,Urcos,081201
+791,152,Andahuaylillas,081202
+792,152,Camanti,081203
+793,152,Ccarhuayo,081204
+794,152,Ccatca,081205
+795,152,Cusipata,081206
+796,152,Huaro,081207
+797,152,Lucre,081208
+798,152,Marcapata,081209
+799,152,Ocongate,081210
+800,152,Oropesa,081211
+801,152,Quiquijana,081212
+802,185,Urubamba,081301
+803,185,Chinchero,081302
+804,185,Huayllabamba,081303
+805,185,Machupicchu,081304
+806,185,Maras,081305
+807,185,Ollantaytambo,081306
+808,185,Yucay,081307
+809,85,Huancavelica,090101
+810,85,Acobambilla,090102
+811,85,Acoria,090103
+812,85,Conayca,090104
+813,85,Cuenca,090105
+814,85,Huachocolpa,090106
+815,85,Huayllahuara,090107
+816,85,Izcuchaca,090108
+817,85,Laria,090109
+818,85,Manta,090110
+819,85,"Mariscal Caceres",090111
+820,85,Moya,090112
+821,85,"Nuevo Occoro",090113
+822,85,Palca,090114
+823,85,Pilchaca,090115
+824,85,Vilca,090116
+825,85,Yauli,090117
+826,85,Ascension,090118
+827,85,Huando,090119
+828,2,Acobamba,090201
+829,2,Andabamba,090202
+830,9,Anta,090203
+831,2,Caja,090204
+832,2,Marcas,090205
+833,2,Paucara,090206
+834,2,Pomacocha,090207
+835,2,Rosario,090208
+836,8,Lircay,090301
+837,8,Anchonga,090302
+838,8,Callanmarca,090303
+839,8,Ccochaccasa,090304
+840,8,Chincho,090305
+841,8,Congalla,090306
+842,8,Huanca-Huanca,090307
+843,8,"Huayllay Grande",090308
+844,8,Julcamarca,090309
+845,8,"San Antonio de Antaparco",090310
+846,8,"Santo Tomas de Pata",090311
+847,8,Secclla,090312
+848,43,Castrovirreyna,090401
+849,43,Arma,090402
+850,43,Aurahua,090403
+851,43,Capillas,090404
+852,43,Chupamarca,090405
+853,43,Cocas,090406
+854,43,Huachos,090407
+855,43,Huamatambo,090408
+856,43,Mollepampa,090409
+857,43,"San Juan",090410
+858,105,"Santa Ana",090411
+859,43,Tantara,090412
+860,43,Ticrapo,090413
+861,56,Churcampa,090501
+862,56,Anco,090502
+863,56,Chinchihuasi,090503
+864,56,"El Carmen",090504
+865,56,"La Merced",090505
+866,56,Locroja,090506
+867,56,Paucarbamba,090507
+868,56,"San Miguel de Mayocc",090508
+869,56,"San Pedro de Coris",090509
+870,56,Pachamarca,090510
+871,56,Cosme,090511
+872,96,Huaytara,090601
+873,96,Ayavi,090602
+874,96,Cordova,090603
+875,96,"Huayacundo Arma",090604
+876,96,Laramarca,090605
+877,96,Ocoyo,090606
+878,96,Pilpichaca,090607
+879,96,Querco,090608
+880,96,Quito-Arma,090609
+881,96,"San Antonio de Cusicancha",090610
+882,96,"San Francisco de Sangayaico",090611
+883,96,"San Isidro",090612
+884,96,"Santiago de Chocorvos",090613
+885,96,"Santiago de Quirahuara",090614
+886,96,"Santo Domingo de Capillas",090615
+887,96,Tambo,090616
+888,90,Pampas,090701
+889,180,Acostambo,090702
+890,180,Acraquia,090703
+891,180,Ahuaycha,090704
+892,180,Colcabamba,090705
+893,180,"Daniel Hernandez",090706
+894,180,Huachocolpa,090707
+895,180,Huaribamba,090709
+896,180,Ã‘ahuimpuquio,090710
+897,180,Pazos,090711
+898,180,Quishuar,090713
+899,180,Salcabamba,090714
+900,180,Salcahuasi,090715
+901,180,"San Marcos de Rocchac",090716
+902,180,Surcubamba,090717
+903,180,"Tintay Puncu",090718
+904,180,Quichuas,090719
+905,180,Andaymarca,090720
+906,180,Roble,090721
+907,180,Pichos,090722
+908,180,"Santiago de TÃºcuma",090723
+909,88,Huanuco,100101
+910,88,Amarilis,100102
+911,88,Chinchao,100103
+912,88,Churubamba,100104
+913,88,Margos,100105
+914,88,Quisqui,100106
+915,88,"San Francisco de Cayran",100107
+916,88,"San Pedro de Chaulan",100108
+917,88,"Santa Maria del Valle",100109
+918,88,Yarumayo,100110
+919,88,"Pillco Marca",100111
+920,88,Yacus,100112
+921,88,"San Pablo de Pillao",100113
+922,6,Ambo,100201
+923,6,Cayna,100202
+924,6,Colpas,100203
+925,6,Conchamarca,100204
+926,6,Huacar,100205
+927,6,"San Francisco",100206
+928,6,"San Rafael",100207
+929,6,"Tomay Kichwa",100208
+930,69,"La Union",100301
+931,69,Chuquis,100307
+932,69,Marias,100311
+933,69,Pachas,100313
+934,69,Quivilla,100316
+935,69,Ripan,100317
+936,69,Shunqui,100321
+937,69,Sillapata,100322
+938,69,Yanas,100323
+939,77,Huacaybamba,100401
+940,77,Canchabamba,100402
+941,77,Cochabamba,100403
+942,77,Pinra,100404
+943,80,Llata,100501
+944,80,Arancay,100502
+945,80,"Chavin de Pariarca",100503
+946,80,"Jacas Grande",100504
+947,80,Jircan,100505
+948,80,Miraflores,100506
+949,80,Monzon,100507
+950,80,Punchao,100508
+951,80,PuÃ±os,100509
+952,80,Singa,100510
+953,80,Tantamayo,100511
+954,112,Rupa-Rupa,100601
+955,112,"Daniel Alomias Robles",100602
+956,112,"Hermilio Valdizan",100603
+957,112,"Jose Crespo y Castillo",100604
+958,112,Luyando,100605
+959,112,"Mariano Damaso Beraun",100606
+960,112,Pucayacu,100607
+961,112,"Castillo Grande",100608
+962,112,"Pueblo Nuevo",100609
+963,112,"Santo Domingo de Anda",100610
+964,118,Huacrachuco,100701
+965,118,Cholon,100702
+966,118,"San Buenaventura",100703
+967,118,"La Morada",100704
+968,118,"Santa Rosa de Alto Yanajanca",100705
+969,134,Panao,100801
+970,134,Chaglla,100802
+971,134,Molino,100803
+972,134,Umari,100804
+973,149,"Puerto Inca",100901
+974,149,"Codo del Pozuzo",100902
+975,149,Honoria,100903
+976,149,Tournavista,100904
+977,149,Yuyapichis,100905
+978,111,Jesus,101001
+979,111,BaÃ±os,101002
+980,111,Jivia,101003
+981,111,Queropalca,101004
+982,111,Rondos,101005
+983,111,"San Francisco de Asis",101006
+984,111,"San Miguel de Cauri",101007
+985,190,Chavinillo,101101
+986,190,Cahuac,101102
+987,190,Chacabamba,101103
+988,190,"Aparicio Pomares",101104
+989,190,"Jacas Chico",101105
+990,190,Obas,101106
+991,190,Pampamarca,101107
+992,190,Choras,101108
+993,97,Ica,110101
+994,97,"La TinguiÃ±a",110102
+995,97,"Los Aquijes",110103
+996,97,Ocucaje,110104
+997,97,Pachacutec,110105
+998,97,Parcona,110106
+999,97,"Pueblo Nuevo",110107
+1000,109,Salas,110108
+1001,97,"San Jose de los Molinos",110109
+1002,123,"San Juan Bautista",110110
+1003,97,Santiago,110111
+1004,97,Subtanjalla,110112
+1005,97,Tate,110113
+1006,97,"Yauca del Rosario",110114
+1007,50,"Chincha Alta",110201
+1008,50,"Alto Laran",110202
+1009,50,Chavin,110203
+1010,50,"Chincha Baja",110204
+1011,50,"El Carmen",110205
+1012,50,"Grocio Prado",110206
+1013,50,"Pueblo Nuevo",110207
+1014,50,"San Juan de Yanac",110208
+1015,50,"San Pedro de Huacarpana",110209
+1016,50,Sunampe,110210
+1017,50,"Tambo de Mora",110211
+1018,128,Nazca,110301
+1019,128,Changuillo,110302
+1020,128,"El Ingenio",110303
+1021,128,Marcona,110304
+1022,128,"Vista Alegre",110305
+1023,138,Palpa,110401
+1024,138,Llipata,110402
+1025,138,"Rio Grande",110403
+1026,95,"Santa Cruz",110404
+1027,138,Tibillo,110405
+1028,146,Pisco,110501
+1029,146,Huancano,110502
+1030,146,Humay,110503
+1031,188,Independencia,110504
+1032,146,Paracas,110505
+1033,146,"San Andres",110506
+1034,146,"San Clemente",110507
+1035,146,"Tupac Amaru Inca",110508
+1036,86,Huancayo,120101
+1037,86,Carhuacallanga,120104
+1038,86,Chacapampa,120105
+1039,86,Chicche,120106
+1040,86,Chilca,120107
+1041,86,"Chongos Alto",120108
+1042,86,Chupuro,120111
+1043,86,Colca,120112
+1044,86,Cullhuas,120113
+1045,86,"El Tambo",120114
+1046,86,Huacrapuquio,120116
+1047,86,Hualhuas,120117
+1048,86,Huancan,120119
+1049,86,Huasicancha,120120
+1050,86,Huayucachi,120121
+1051,86,Ingenio,120122
+1052,86,Pariahuanca,120124
+1053,86,Pilcomayo,120125
+1054,86,Pucara,120126
+1055,86,Quichuay,120127
+1056,86,Quilcas,120128
+1057,86,"San Agustin",120129
+1058,86,"San Jeronimo de Tunan",120130
+1059,86,SaÃ±o,120132
+1060,86,Sapallanga,120133
+1061,86,Sicaya,120134
+1062,86,"Santo Domingo de Acobamba",120135
+1063,86,Viques,120136
+1064,57,Concepcion,120201
+1065,63,Aco,120202
+1066,57,Andamarca,120203
+1067,57,Chambara,120204
+1068,57,Cochas,120205
+1069,57,Comas,120206
+1070,57,"Heroinas Toledo",120207
+1071,57,Manzanares,120208
+1072,57,"Mariscal Castilla",120209
+1073,57,Matahuasi,120210
+1074,57,Mito,120211
+1075,57,"Nueve de Julio",120212
+1076,57,Orcotuna,120213
+1077,57,"San Jose de Quero",120214
+1078,57,"Santa Rosa de Ocopa",120215
+1079,47,Chanchamayo,120301
+1080,47,Perene,120302
+1081,47,Pichanaqui,120303
+1082,47,"San Luis de Shuaro",120304
+1083,47,"San Ramon",120305
+1084,47,Vitoc,120306
+1085,101,Jauja,120401
+1086,101,Acolla,120402
+1087,101,Apata,120403
+1088,101,Ataura,120404
+1089,101,Canchayllo,120405
+1090,101,Curicaca,120406
+1091,101,"El Mantaro",120407
+1092,101,Huamali,120408
+1093,101,Huaripampa,120409
+1094,101,Huertas,120410
+1095,101,Janjaillo,120411
+1096,101,Julcan,120412
+1097,101,"Leonor OrdoÃ±ez",120413
+1098,101,Llocllapampa,120414
+1099,101,Marco,120415
+1100,101,Masma,120416
+1101,101,"Masma Chicche",120417
+1102,101,Molinos,120418
+1103,101,Monobamba,120419
+1104,101,Muqui,120420
+1105,101,Muquiyauyo,120421
+1106,101,Paca,120422
+1107,101,Paccha,120423
+1108,101,Pancan,120424
+1109,101,Parco,120425
+1110,101,Pomacancha,120426
+1111,101,Ricran,120427
+1112,101,"San Lorenzo",120428
+1113,101,"San Pedro de Chunan",120429
+1114,101,Sausa,120430
+1115,101,Sincos,120431
+1116,101,"Tunan Marca",120432
+1117,101,Yauli,120433
+1118,101,Yauyos,120434
+1119,104,Junin,120501
+1120,104,Carhuamayo,120502
+1121,104,Ondores,120503
+1122,104,Ulcumayo,120504
+1123,169,Satipo,120601
+1124,169,Coviriali,120602
+1125,169,Llaylla,120603
+1126,169,Mazamari,120604
+1127,169,"Pampa Hermosa",120605
+1128,169,Pangoa,120606
+1129,169,"Rio Negro",120607
+1130,169,"Rio Tambo",120608
+1131,169,"VizcatÃ¡n del Ene",120609
+1132,179,Tarma,120701
+1133,179,Acobamba,120702
+1134,179,Huaricolca,120703
+1135,179,Huasahuasi,120704
+1136,179,"La Union",120705
+1137,85,Palca,120706
+1138,179,Palcamayo,120707
+1139,179,"San Pedro de Cajas",120708
+1140,179,Tapo,120709
+1141,191,"La Oroya",120801
+1142,191,Chacapalpa,120802
+1143,191,Huay-Huay,120803
+1144,191,Marcapomacocha,120804
+1145,191,Morococha,120805
+1146,101,Paccha,120806
+1147,191,"Santa Barbara de Carhuacayan",120807
+1148,191,"Santa Rosa de Sacco",120808
+1149,191,Suitucancha,120809
+1150,191,Yauli,120810
+1151,55,Chupaca,120901
+1152,55,Ahuac,120902
+1153,55,"Chongos Bajo",120903
+1154,55,Huachac,120904
+1155,55,"Huamancaca Chico",120905
+1156,55,"San Juan de Yscos",120906
+1157,55,"San Juan de Jarpa",120907
+1158,55,"Tres de Diciembre",120908
+1159,55,Yanacancha,120909
+1160,182,Trujillo,130101
+1161,182,"El Porvenir",130102
+1162,182,"Florencia de Mora",130103
+1163,182,Huanchaco,130104
+1164,182,"La Esperanza",130105
+1165,182,Laredo,130106
+1166,182,Moche,130107
+1167,182,Poroto,130108
+1168,182,Salaverry,130109
+1169,182,Simbal,130110
+1170,182,"Victor Larco Herrera",130111
+1171,13,Ascope,130201
+1172,13,Chicama,130202
+1173,13,Chocope,130203
+1174,13,"Magdalena de Cao",130204
+1175,13,Paijan,130205
+1176,13,Razuri,130206
+1177,13,"Santiago de Cao",130207
+1178,13,"Casa Grande",130208
+1179,22,Bolivar,130301
+1180,78,Bambamarca,130302
+1181,22,Condormarca,130303
+1182,22,Longotea,130304
+1183,22,Uchumarca,130305
+1184,22,Ucuncha,130306
+1185,48,Chepen,130401
+1186,48,Pacanga,130402
+1187,48,"Pueblo Nuevo",130403
+1188,103,Julcan,130501
+1189,103,Calamarca,130502
+1190,103,Carabamba,130503
+1191,103,Huaso,130504
+1192,130,Otuzco,130601
+1193,130,Agallpampa,130602
+1194,130,Charat,130604
+1195,130,Huaranchal,130605
+1196,130,"La Cuesta",130606
+1197,130,Mache,130608
+1198,130,Paranday,130610
+1199,130,Salpo,130611
+1200,130,Sinsicap,130613
+1201,130,Usquil,130614
+1202,133,"San Pedro de Lloc",130701
+1203,133,Guadalupe,130702
+1204,133,Jequetepeque,130703
+1205,133,Pacasmayo,130704
+1206,133,"San Jose",130705
+1207,142,Tayabamba,130801
+1208,142,Buldibuyo,130802
+1209,142,Chillia,130803
+1210,142,Huancaspata,130804
+1211,142,Huaylillas,130805
+1212,142,Huayo,130806
+1213,142,Ongon,130807
+1214,142,Parcoy,130808
+1215,142,Pataz,130809
+1216,142,Pias,130810
+1217,142,"Santiago de Challas",130811
+1218,142,Taurija,130812
+1219,142,Urpay,130813
+1220,164,Huamachuco,130901
+1221,164,Chugay,130902
+1222,164,Cochorco,130903
+1223,164,Curgos,130904
+1224,164,Marcabal,130905
+1225,164,Sanagoran,130906
+1226,164,Sarin,130907
+1227,164,Sartimbamba,130908
+1228,168,"Santiago de Chuco",131001
+1229,168,Angasmarca,131002
+1230,168,Cachicadan,131003
+1231,168,Mollebamba,131004
+1232,168,Mollepata,131005
+1233,168,Quiruvilca,131006
+1234,168,"Santa Cruz de Chuca",131007
+1235,168,Sitabamba,131008
+1236,75,Cascas,131101
+1237,75,Lucma,131102
+1238,75,Compin,131103
+1239,75,Sayapullo,131104
+1240,189,Viru,131201
+1241,189,Chao,131202
+1242,189,Guadalupito,131203
+1243,49,Chiclayo,140101
+1244,49,Chongoyape,140102
+1245,49,Eten,140103
+1246,49,"Eten Puerto",140104
+1247,49,"Jose Leonardo Ortiz",140105
+1248,49,"La Victoria",140106
+1249,49,Lagunas,140107
+1250,49,Monsefu,140108
+1251,49,"Nueva Arica",140109
+1252,49,Oyotun,140110
+1253,49,Picsi,140111
+1254,49,Pimentel,140112
+1255,49,Reque,140113
+1256,49,"Santa Rosa",140114
+1257,49,SaÃ±a,140115
+1258,49,Cayalti,140116
+1259,49,Patapo,140117
+1260,49,Pomalca,140118
+1261,49,Pucala,140119
+1262,49,Tuman,140120
+1263,73,FerreÃ±afe,140201
+1264,73,CaÃ±aris,140202
+1265,73,Incahuasi,140203
+1266,73,"Manuel Antonio Mesones Muro",140204
+1267,73,Pitipo,140205
+1268,73,"Pueblo Nuevo",140206
+1269,109,Lambayeque,140301
+1270,109,Chochope,140302
+1271,109,Illimo,140303
+1272,109,Jayanca,140304
+1273,109,Mochumi,140305
+1274,109,Morrope,140306
+1275,109,Motupe,140307
+1276,109,Olmos,140308
+1277,109,Pacora,140309
+1278,109,Salas,140310
+1279,109,"San Jose",140311
+1280,109,Tucume,140312
+1281,113,Lima,150101
+1282,113,Ancon,150102
+1283,113,Ate,150103
+1284,113,Barranco,150104
+1285,113,BreÃ±a,150105
+1286,113,Carabayllo,150106
+1287,113,Chaclacayo,150107
+1288,113,Chorrillos,150108
+1289,113,Cieneguilla,150109
+1290,113,Comas,150110
+1291,113,"El Agustino",150111
+1292,113,Independencia,150112
+1293,113,"Jesus Maria",150113
+1294,113,"La Molina",150114
+1295,113,"La Victoria",150115
+1296,113,Lince,150116
+1297,113,"Los Olivos",150117
+1298,113,Lurigancho,150118
+1299,113,Lurin,150119
+1300,113,"Magdalena del Mar",150120
+1301,113,"Pueblo Libre",150121
+1302,12,Miraflores,150122
+1303,113,Pachacamac,150123
+1304,113,Pucusana,150124
+1305,113,"Puente Piedra",150125
+1306,113,"Punta Hermosa",150126
+1307,113,"Punta Negra",150127
+1308,113,Rimac,150128
+1309,113,"San Bartolo",150129
+1310,113,"San Borja",150130
+1311,113,"San Isidro",150131
+1312,113,"San Juan de Lurigancho",150132
+1313,113,"San Juan de Miraflores",150133
+1314,113,"San Luis",150134
+1315,113,"San Martin de Porres",150135
+1316,163,"San Miguel",150136
+1317,113,"Santa Anita",150137
+1318,113,"Santa Maria del Mar",150138
+1319,113,"Santa Rosa",150139
+1320,113,"Santiago de Surco",150140
+1321,113,Surquillo,150141
+1322,113,"Villa El Salvador",150142
+1323,113,"Villa Maria del Triunfo",150143
+1324,20,Barranca,150201
+1325,20,Paramonga,150202
+1326,20,Pativilca,150203
+1327,20,Supe,150204
+1328,20,"Supe Puerto",150205
+1329,27,Cajatambo,150301
+1330,27,Copa,150302
+1331,27,Gorgor,150303
+1332,27,Huancapon,150304
+1333,27,Manas,150305
+1334,35,Canta,150401
+1335,35,Arahuay,150402
+1336,35,Huamantanga,150403
+1337,35,Huaros,150404
+1338,35,Lachaqui,150405
+1339,35,"San Buenaventura",150406
+1340,35,"Santa Rosa de Quives",150407
+1341,36,"San Vicente de CaÃ±ete",150501
+1342,36,Asia,150502
+1343,36,Calango,150503
+1344,36,"Cerro Azul",150504
+1345,36,Chilca,150505
+1346,36,Coayllo,150506
+1347,36,Imperial,150507
+1348,36,Lunahuana,150508
+1349,36,Mala,150509
+1350,36,"Nuevo Imperial",150510
+1351,36,Pacaran,150511
+1352,36,Quilmana,150512
+1353,36,"San Antonio",150513
+1354,40,"San Luis",150514
+1355,36,"Santa Cruz de Flores",150515
+1356,36,ZuÃ±iga,150516
+1357,89,Huaral,150601
+1358,89,"Atavillos Alto",150602
+1359,89,"Atavillos Bajo",150603
+1360,89,Aucallama,150604
+1361,89,Chancay,150605
+1362,89,Ihuari,150606
+1363,89,Lampian,150607
+1364,89,Pacaraos,150608
+1365,89,"San Miguel de Acos",150609
+1366,89,"Santa Cruz de Andamarca",150610
+1367,89,Sumbilca,150611
+1368,89,"Veintisiete de Noviembre",150612
+1369,93,Matucana,150701
+1370,93,Antioquia,150702
+1371,93,Callahuanca,150703
+1372,93,Carampoma,150704
+1373,93,Chicla,150705
+1374,93,Cuenca,150706
+1375,93,Huachupampa,150707
+1376,93,Huanza,150708
+1377,93,Huarochiri,150709
+1378,93,Lahuaytambo,150710
+1379,93,Langa,150711
+1380,93,Laraos,150712
+1381,93,Mariatana,150713
+1382,93,"Ricardo Palma",150714
+1383,93,"San Andres de Tupicocha",150715
+1384,93,"San Antonio",150716
+1385,93,"San Bartolome",150717
+1386,93,"San Damian",150718
+1387,93,"San Juan de Iris",150719
+1388,93,"San Juan de Tantaranche",150720
+1389,93,"San Lorenzo de Quinti",150721
+1390,93,"San Mateo",150722
+1391,93,"San Mateo de Otao",150723
+1392,93,"San Pedro de Casta",150724
+1393,93,"San Pedro de Huancayre",150725
+1394,93,Sangallaya,150726
+1395,93,"Santa Cruz de Cocachacra",150727
+1396,93,"Santa Eulalia",150728
+1397,93,"Santiago de Anchucaya",150729
+1398,93,"Santiago de Tuna",150730
+1399,93,"Santo Domingo de los Olleros",150731
+1400,93,Surco,150732
+1401,94,Huacho,150801
+1402,94,Ambar,150802
+1403,94,"Caleta de Carquin",150803
+1404,94,Checras,150804
+1405,94,Hualmay,150805
+1406,94,Huaura,150806
+1407,94,"Leoncio Prado",150807
+1408,94,Paccho,150808
+1409,94,"Santa Leonor",150809
+1410,94,"Santa Maria",150810
+1411,94,Sayan,150811
+1412,94,Vegueta,150812
+1413,132,Oyon,150901
+1414,132,Andajes,150902
+1415,132,Caujul,150903
+1416,132,Cochamarca,150904
+1417,132,Navan,150905
+1418,132,Pachangara,150906
+1419,192,Yauyos,151001
+1420,192,Alis,151002
+1421,192,Ayauca,151003
+1422,192,Ayaviri,151004
+1423,18,Azangaro,151005
+1424,192,Cacra,151006
+1425,192,Carania,151007
+1426,192,Catahuasi,151008
+1427,192,Chocos,151009
+1428,192,Cochas,151010
+1429,192,Colonia,151011
+1430,192,Hongos,151012
+1431,192,Huampara,151013
+1432,192,Huancaya,151014
+1433,192,Huangascar,151015
+1434,192,Huantan,151016
+1435,192,HuaÃ±ec,151017
+1436,93,Laraos,151018
+1437,192,Lincha,151019
+1438,192,Madean,151020
+1439,192,Miraflores,151021
+1440,192,Omas,151022
+1441,192,Putinza,151023
+1442,192,Quinches,151024
+1443,192,Quinocay,151025
+1444,192,"San Joaquin",151026
+1445,192,"San Pedro de Pilas",151027
+1446,192,Tanta,151028
+1447,192,Tauripampa,151029
+1448,192,Tomas,151030
+1449,192,Tupe,151031
+1450,192,ViÃ±ac,151032
+1451,192,Vitis,151033
+1452,123,Iquitos,160101
+1453,123,"Alto Nanay",160102
+1454,123,"Fernando Lores",160103
+1455,123,Indiana,160104
+1456,123,"Las Amazonas",160105
+1457,123,Mazan,160106
+1458,123,Napo,160107
+1459,123,Punchana,160108
+1460,123,"Torres Causana",160110
+1461,123,Belen,160112
+1462,97,"San Juan Bautista",160113
+1463,5,Yurimaguas,160201
+1464,5,Balsapuerto,160202
+1465,5,Jeberos,160205
+1466,16,Lagunas,160206
+1467,5,"Santa Cruz",160210
+1468,5,"Teniente Cesar Lopez Rojas",160211
+1469,114,Nauta,160301
+1470,114,Parinari,160302
+1471,114,Tigre,160303
+1472,114,Trompeteros,160304
+1473,114,Urarinas,160305
+1474,122,"Ramon Castilla",160401
+1475,122,Pebas,160402
+1476,122,Yavari,160403
+1477,122,"San Pablo",160404
+1478,154,Requena,160501
+1479,154,"Alto Tapiche",160502
+1480,154,Capelo,160503
+1481,154,"Emilio San Martin",160504
+1482,154,Maquia,160505
+1483,154,Puinahua,160506
+1484,154,Saquena,160507
+1485,154,Soplin,160508
+1486,154,Tapiche,160509
+1487,154,"Jenaro Herrera",160510
+1488,154,Yaquerana,160511
+1489,184,Contamana,160601
+1490,184,Inahuaya,160602
+1491,184,"Padre Marquez",160603
+1492,184,"Pampa Hermosa",160604
+1493,184,Sarayacu,160605
+1494,184,"Vargas Guerra",160606
+1495,68,Barranca,160701
+1496,68,Cahuapanas,160702
+1497,68,Manseriche,160703
+1498,68,Morona,160704
+1499,68,Pastaza,160705
+1500,68,Andoas,160706
+1501,123,Putumayo,160801
+1502,123,"Rosa Panduro",160802
+1503,123,"Teniente Manuel Clavero",160803
+1504,123,Yaguas,160804
+1505,177,Tambopata,170101
+1506,177,Inambari,170102
+1507,177,"Las Piedras",170103
+1508,177,Laberinto,170104
+1509,117,Manu,170201
+1510,117,Fitzcarrald,170202
+1511,117,"Madre de Dios",170203
+1512,117,Huepetuhe,170204
+1513,175,IÃ±apari,170301
+1514,175,Iberia,170302
+1515,175,Tahuamanu,170303
+1516,121,Moquegua,180101
+1517,121,Carumas,180102
+1518,121,Cuchumbaya,180103
+1519,121,Samegua,180104
+1520,121,"San Cristobal",180105
+1521,121,Torata,180106
+1522,74,Omate,180201
+1523,74,Chojata,180202
+1524,74,Coalaque,180203
+1525,74,IchuÃ±a,180204
+1526,74,"La Capilla",180205
+1527,74,Lloque,180206
+1528,74,Matalaque,180207
+1529,74,Puquina,180208
+1530,74,Quinistaquillas,180209
+1531,74,Ubinas,180210
+1532,74,Yunga,180211
+1533,98,Ilo,180301
+1534,98,"El Algarrobal",180302
+1535,98,Pacocha,180303
+1536,141,Chaupimarca,190101
+1537,141,Huachon,190102
+1538,141,Huariaca,190103
+1539,141,Huayllay,190104
+1540,141,Ninacaca,190105
+1541,141,Pallanchacra,190106
+1542,141,Paucartambo,190107
+1543,141,"San Francisco de Asis de Yarusyacan",190108
+1544,141,"Simon Bolivar",190109
+1545,141,Ticlacayan,190110
+1546,141,Tinyahuarco,190111
+1547,141,Vicco,190112
+1548,141,Yanacancha,190113
+1549,67,Yanahuanca,190201
+1550,67,Chacayan,190202
+1551,67,Goyllarisquizga,190203
+1552,67,Paucar,190204
+1553,67,"San Pedro de Pillao",190205
+1554,67,"Santa Ana de Tusi",190206
+1555,67,Tapuc,190207
+1556,67,Vilcabamba,190208
+1557,131,Oxapampa,190301
+1558,131,Chontabamba,190302
+1559,131,Huancabamba,190303
+1560,131,Palcazu,190304
+1561,131,Pozuzo,190305
+1562,131,"Puerto Bermudez",190306
+1563,131,"Villa Rica",190307
+1564,131,ConstituciÃ³n,190308
+1565,147,Piura,200101
+1566,147,Castilla,200104
+1567,147,Catacaos,200105
+1568,147,"Cura Mori",200107
+1569,147,"El Tallan",200108
+1570,147,"La Arena",200109
+1571,147,"La Union",200110
+1572,147,"Las Lomas",200111
+1573,147,"Tambo Grande",200114
+1574,147,"26 de Octubre",200115
+1575,16,Ayabaca,200201
+1576,16,Frias,200202
+1577,16,Jilili,200203
+1578,16,Lagunas,200204
+1579,16,Montero,200205
+1580,16,Pacaipampa,200206
+1581,16,Paimas,200207
+1582,16,Sapillica,200208
+1583,16,Sicchez,200209
+1584,16,Suyo,200210
+1585,131,Huancabamba,200301
+1586,83,Canchaque,200302
+1587,83,"El Carmen de La Frontera",200303
+1588,83,Huarmaca,200304
+1589,83,Lalaquiz,200305
+1590,83,"San Miguel de El Faique",200306
+1591,83,Sondor,200307
+1592,83,Sondorillo,200308
+1593,126,Chulucanas,200401
+1594,126,"Buenos Aires",200402
+1595,126,Chalaco,200403
+1596,126,"La Matanza",200404
+1597,126,Morropon,200405
+1598,126,Salitral,200406
+1599,126,"San Juan de Bigote",200407
+1600,126,"Santa Catalina de Mossa",200408
+1601,126,"Santo Domingo",200409
+1602,126,Yamango,200410
+1603,136,Paita,200501
+1604,136,Amotape,200502
+1605,136,Arenal,200503
+1606,136,Colan,200504
+1607,136,"La Huaca",200505
+1608,136,Tamarindo,200506
+1609,136,Vichayal,200507
+1610,173,Sullana,200601
+1611,173,Bellavista,200602
+1612,173,"Ignacio Escudero",200603
+1613,173,Lancones,200604
+1614,173,Marcavelica,200605
+1615,173,"Miguel Checa",200606
+1616,173,Querecotillo,200607
+1617,126,Salitral,200608
+1618,176,PariÃ±as,200701
+1619,176,"El Alto",200702
+1620,176,"La Brea",200703
+1621,176,Lobitos,200704
+1622,176,"Los Organos",200705
+1623,176,Mancora,200706
+1624,170,Sechura,200801
+1625,170,"Bellavista de La Union",200802
+1626,170,Bernal,200803
+1627,170,"Cristo Nos Valga",200804
+1628,170,Vice,200805
+1629,170,"Rinconada Llicuar",200806
+1630,150,Puno,210101
+1631,150,Acora,210102
+1632,150,Amantani,210103
+1633,150,Atuncolla,210104
+1634,150,Capachica,210105
+1635,150,Chucuito,210106
+1636,150,Coata,210107
+1637,150,Huata,210108
+1638,150,MaÃ±azo,210109
+1639,150,Paucarcolla,210110
+1640,150,Pichacani,210111
+1641,150,Plateria,210112
+1642,150,"San Antonio",210113
+1643,150,Tiquillaca,210114
+1644,150,Vilque,210115
+1645,18,Azangaro,210201
+1646,18,Achaya,210202
+1647,18,Arapa,210203
+1648,18,Asillo,210204
+1649,18,Caminaca,210205
+1650,18,Chupa,210206
+1651,18,"Jose Domingo Choquehuanca",210207
+1652,18,MuÃ±ani,210208
+1653,18,Potoni,210209
+1654,18,Saman,210210
+1655,18,"San Anton",210211
+1656,18,"San Jose",210212
+1657,18,"San Juan de Salinas",210213
+1658,18,"Santiago de Pupuja",210214
+1659,18,Tirapata,210215
+1660,37,Macusani,210301
+1661,37,Ajoyani,210302
+1662,37,Ayapata,210303
+1663,37,Coasa,210304
+1664,37,Corani,210305
+1665,37,Crucero,210306
+1666,37,Ituata,210307
+1667,37,Ollachea,210308
+1668,37,"San Gaban",210309
+1669,37,Usicayos,210310
+1670,53,Juli,210401
+1671,53,Desaguadero,210402
+1672,53,Huacullani,210403
+1673,53,Kelluyo,210404
+1674,53,Pisacoma,210405
+1675,53,Pomata,210406
+1676,53,Zepita,210407
+1677,70,Ilave,210501
+1678,70,Capazo,210502
+1679,70,Pilcuyo,210503
+1680,70,"Santa Rosa",210504
+1681,70,Conduriri,210505
+1682,84,Huancane,210601
+1683,84,Cojata,210602
+1684,84,Huatasani,210603
+1685,84,Inchupalla,210604
+1686,84,Pusi,210605
+1687,84,Rosaspata,210606
+1688,84,Taraco,210607
+1689,84,"Vilque Chico",210608
+1690,110,Lampa,210701
+1691,110,Cabanilla,210702
+1692,110,Calapuja,210703
+1693,110,Nicasio,210704
+1694,110,Ocuviri,210705
+1695,110,Palca,210706
+1696,110,Paratia,210707
+1697,110,Pucara,210708
+1698,115,"Santa Lucia",210709
+1699,110,Vilavila,210710
+1700,124,Ayaviri,210801
+1701,124,Antauta,210802
+1702,124,Cupi,210803
+1703,124,Llalli,210804
+1704,124,Macari,210805
+1705,124,NuÃ±oa,210806
+1706,124,Orurillo,210807
+1707,124,"Santa Rosa",210808
+1708,124,Umachiri,210809
+1709,125,Moho,210901
+1710,125,Conima,210902
+1711,125,Huayrapata,210903
+1712,125,Tilali,210904
+1713,157,Putina,211001
+1714,157,Ananea,211002
+1715,157,"Pedro Vilca Apaza",211003
+1716,157,Quilcapuncu,211004
+1717,157,Sina,211005
+1718,163,Juliaca,211101
+1719,163,Cabana,211102
+1720,163,Cabanillas,211103
+1721,163,Caracoto,211104
+1722,163,"San Miguel",211105
+1723,165,Sandia,211201
+1724,165,Cuyocuyo,211202
+1725,165,Limbani,211203
+1726,165,Patambuco,211204
+1727,165,Phara,211205
+1728,165,Quiaca,211206
+1729,165,"San Juan del Oro",211207
+1730,165,Yanahuaya,211208
+1731,165,"Alto Inambari",211209
+1732,165,"San Pedro de Putina Punco",211210
+1733,194,Yunguyo,211301
+1734,194,Anapia,211302
+1735,194,Copani,211303
+1736,194,Cuturapi,211304
+1737,194,Ollaraya,211305
+1738,194,Tinicachi,211306
+1739,194,Unicachi,211307
+1740,127,Moyobamba,220101
+1741,127,Calzada,220102
+1742,127,Habana,220103
+1743,127,Jepelacio,220104
+1744,127,Soritor,220105
+1745,127,Yantalo,220106
+1746,21,Bellavista,220201
+1747,21,"Alto Biavo",220202
+1748,21,"Bajo Biavo",220203
+1749,21,Huallaga,220204
+1750,21,"San Pablo",220205
+1751,6,"San Rafael",220206
+1752,71,"San Jose de Sisa",220301
+1753,71,"Agua Blanca",220302
+1754,71,"San Martin",220303
+1755,71,"Santa Rosa",220304
+1756,71,Shatoja,220305
+1757,79,Saposoa,220401
+1758,79,"Alto Saposoa",220402
+1759,79,"El Eslabon",220403
+1760,79,Piscoyacu,220404
+1761,79,Sacanche,220405
+1762,79,"Tingo de Saposoa",220406
+1763,108,Lamas,220501
+1764,108,"Alonso de Alvarado",220502
+1765,108,Barranquita,220503
+1766,108,Caynarachi,220504
+1767,108,CuÃ±umbuqui,220505
+1768,108,"Pinto Recodo",220506
+1769,108,Rumisapa,220507
+1770,108,"San Roque de Cumbaza",220508
+1771,108,Shanao,220509
+1772,108,Tabalosos,220510
+1773,108,Zapatero,220511
+1774,119,Juanjui,220601
+1775,119,Campanilla,220602
+1776,119,Huicungo,220603
+1777,119,Pachiza,220604
+1778,119,Pajarillo,220605
+1779,145,Picota,220701
+1780,145,"Buenos Aires",220702
+1781,145,Caspisapa,220703
+1782,145,Pilluana,220704
+1783,145,Pucacaca,220705
+1784,145,"San Cristobal",220706
+1785,145,"San Hilarion",220707
+1786,145,Shamboyacu,220708
+1787,145,"Tingo de Ponasa",220709
+1788,145,"Tres Unidos",220710
+1789,155,Rioja,220801
+1790,155,Awajun,220802
+1791,155,"Elias Soplin Vargas",220803
+1792,155,"Nueva Cajamarca",220804
+1793,155,"Pardo Miguel",220805
+1794,155,Posic,220806
+1795,155,"San Fernando",220807
+1796,155,Yorongos,220808
+1797,155,Yuracyacu,220809
+1798,160,Tarapoto,220901
+1799,160,"Alberto Leveau",220902
+1800,160,Cacatachi,220903
+1801,160,Chazuta,220904
+1802,160,Chipurana,220905
+1803,160,"El Porvenir",220906
+1804,160,Huimbayoc,220907
+1805,160,"Juan Guerra",220908
+1806,160,"La Banda de Shilcayo",220909
+1807,160,Morales,220910
+1808,160,Papaplaya,220911
+1809,160,"San Antonio",220912
+1810,160,Sauce,220913
+1811,160,Shapaja,220914
+1812,181,Tocache,221001
+1813,181,"Nuevo Progreso",221002
+1814,181,Polvora,221003
+1815,181,Shunte,221004
+1816,181,Uchiza,221005
+1817,174,Tacna,230101
+1818,174,"Alto de La Alianza",230102
+1819,174,Calana,230103
+1820,174,"Ciudad Nueva",230104
+1821,174,Inclan,230105
+1822,174,Pachia,230106
+1823,174,Palca,230107
+1824,174,Pocollay,230108
+1825,174,Sama,230109
+1826,174,"Coronel Gregorio Albarracin Lanchipa",230110
+1827,174,"La Yarada-Los Palos",230111
+1828,33,Candarave,230201
+1829,33,Cairani,230202
+1830,33,Camilaca,230203
+1831,33,Curibaya,230204
+1832,33,Huanuara,230205
+1833,33,Quilahuani,230206
+1834,102,Locumba,230301
+1835,102,Ilabaya,230302
+1836,102,Ite,230303
+1837,178,Tarata,230401
+1838,178,"Heroes Albarracin",230402
+1839,178,Estique,230403
+1840,178,Estique-Pampa,230404
+1841,178,Sitajara,230405
+1842,178,Susapaya,230406
+1843,178,Tarucachi,230407
+1844,178,Ticaco,230408
+1845,183,Tumbes,240101
+1846,183,Corrales,240102
+1847,183,"La Cruz",240103
+1848,183,"Pampas de Hospital",240104
+1849,183,"San Jacinto",240105
+1850,183,"San Juan de La Virgen",240106
+1851,60,Zorritos,240201
+1852,60,Casitas,240202
+1853,60,"Canoas de Punta Sal",240203
+1854,195,Zarumilla,240301
+1855,195,"Aguas Verdes",240302
+1856,195,Matapalo,240303
+1857,195,Papayal,240304
+1858,62,Calleria,250101
+1859,62,Campoverde,250102
+1860,62,Iparia,250103
+1861,62,Masisea,250104
+1862,62,Yarinacocha,250105
+1863,62,"Nueva Requena",250106
+1864,62,Manantay,250107
+1865,15,Raymondi,250201
+1866,15,Sepahua,250202
+1867,15,Tahuania,250203
+1868,15,Yurua,250204
+1869,135,"Padre Abad",250301
+1870,135,Irazola,250302
+1871,135,Curimana,250303
+1872,135,Neshuya,250304
+1873,135,"Alexander von Humboldt",250305
+1874,151,Purus,250401
